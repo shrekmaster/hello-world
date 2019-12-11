@@ -4,5 +4,3 @@ Let's test it.
 Adding more commit
 translation
 additional
-nhngnghn
-vdfvfdv
