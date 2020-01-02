@@ -8,3 +8,4 @@ Pravin added new change
 commit mode
 check force commit
 Update coomit to check
+get branches merge level
