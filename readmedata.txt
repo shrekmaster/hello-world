@@ -5,3 +5,4 @@ Adding more commit
 translation
 additional
 Pravin added new change
+commit mode
