@@ -6,3 +6,4 @@ translation
 additional
 Pravin added new change
 commit mode
+check force commit
