@@ -5,6 +5,8 @@ Adding more commit
 translation
 additional
 Pravin added new change
-make changes and 
-edit file
-more commit check
+commit mode
+check force commit
+Update coomit to check
+get branches merge level job
+commit mode tes
