@@ -13,7 +13,4 @@ commit mode tes
 new
 check mode code now
 one more
-under folder change made for test
-Refresh server for test more datat
-removed /
-check older
+
